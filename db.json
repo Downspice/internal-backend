@@ -1,13 +1,14 @@
-{institutionList = [
+{
+  "institutionList" : [
   {
-    id: "mest",
-    abbreviation: "MEST",
-    name: "Ministry of Environment, Science, Technology",
+    "id": "mest",
+    "abbreviation": "MEST",
+    "name": "Ministry of Environment, Science, Technology",
   },
   {
-    id: "MOE",
-    abbreviation: "MOE",
-    name: "Ministry of Education",
+    "id": "MOE",
+    "abbreviation": "MOE",
+    "name": "Ministry of Education",
   },
 ];
 }
