@@ -1,4 +1,4 @@
-institutionList = [
+{institutionList = [
   {
     id: "mest",
     abbreviation: "MEST",
@@ -10,3 +10,4 @@ institutionList = [
     name: "Ministry of Education",
   },
 ];
+}
