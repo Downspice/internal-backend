@@ -11,7 +11,7 @@
       "name": "Ministry of Education"
     }
   ],
-  "privilegeTiersList": [
+  "privilegeTierList": [
     {
       "id": "low",
       "name": "Lower Tier",
