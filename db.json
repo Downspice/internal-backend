@@ -10,11 +10,25 @@
       "abbreviation": "MOE",
       "name": "Ministry of Education"
     }
+  ],
+  "privilegeTiersList": [
+    {
+      "id": "low",
+      "name": "Lower Tier",
+      "lowerBoundary": 0,
+      "higherBoundary": 100
+    },
+    {
+      "id": "medium",
+      "name": "Medium Tier",
+      "lowerBoundary": 101,
+      "higherBoundary": 500
+    },
+    {
+      "id": "high",
+      "name": "High Tier",
+      "lowerBoundary": 501,
+      "higherBoundary": 1000
+    }
   ]
-  "privilegeTiersList" :[
-  {"id":"low", "name": "Lower Tier", "lowerBoundary": 0, "higherBoundary": 100 },
-  {"id":"medium", "name": "Medium Tier", "lowerBoundary": 101, "higherBoundary": 500 },
-  {"id":"high", "name": "High Tier", "lowerBoundary": 501, "higherBoundary": 1000 },
-  ]
-
 }
